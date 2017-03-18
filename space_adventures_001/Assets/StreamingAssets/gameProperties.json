@@ -1,11 +1,14 @@
 {
-	"levels": [ 
-				{
-				  "caps_x": -3,
-				  "caps_y": 3,
-				  "caps_z": -3
-				}
-	]
+    "levels": [ 
+                {
+                  "caps_x": -3,
+                  "caps_y": 3,
+                  "caps_z": -3
+                }
+    ],
+  "max_galaxies": 5,
+  "max_planets": 7,
+  "para": "pampam"
 }
 
 

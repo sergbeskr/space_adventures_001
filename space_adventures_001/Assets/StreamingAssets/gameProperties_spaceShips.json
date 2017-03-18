@@ -1,0 +1,79 @@
+{
+    "levels": [ 
+                {
+                  "caps_x": -3,
+                  "caps_y": 3,
+                  "caps_z": -3
+                }
+    ],
+  "ololo": "+5",
+  "galaxysParams": [ 
+	{
+	  "galaxyId:": 0,
+	  "galaxy_x": 5,
+	  "galaxy_y": 5
+	},
+	{
+	  "galaxyId:": 1,
+	  "galaxy_x": -5,
+	  "galaxy_y": -4
+	},
+	{
+	  "galaxyId:": 2,
+	  "galaxy_x": 1,
+	  "galaxy_y": 1
+	},
+	{
+	  "galaxyId:": 3,
+	  "galaxy_x": 2,
+	  "galaxy_y": 2
+	},
+	{
+	  "galaxyId:": 4,
+	  "galaxy_x": 4,
+	  "galaxy_y": 4
+	},
+	{
+	  "galaxyId:": 5,
+	  "galaxy_x": 3,
+	  "galaxy_y": 3
+	},
+	{
+	  "galaxyId:": 6,
+	  "galaxy_x": -1,
+	  "galaxy_y": -2
+	},
+	{
+	  "galaxyId:": 7,
+	  "galaxy_x": -2,
+	  "galaxy_y": -1
+	},
+	{
+	  "galaxyId:": 8,
+	  "galaxy_x": -3,
+	  "galaxy_y": -3
+	},
+	{
+	  "galaxyId:": 9,
+	  "galaxy_x": -3,
+	  "galaxy_y": 1
+	},
+	{
+	  "galaxyId:": 10,
+	  "galaxy_x": -1,
+	  "galaxy_y": 3
+	}
+	{
+	  "galaxyId:": 11,
+	  "galaxy_x": -2,
+	  "galaxy_y": -3
+	},
+	{
+	  "galaxyId:": 12,
+	  "galaxy_x": 2,
+	  "galaxy_y": -1
+	}
+  ]
+}
+
+

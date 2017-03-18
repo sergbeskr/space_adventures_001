@@ -1,0 +1,30 @@
+{ 
+  "worldName": "Ololoshechka galaxy",
+  "all_money": 100,
+  "all_blackEnergy": 25,
+  "in_time_sec": 60
+  "in_time_money": 10,
+  "in_time_blackEnergy": 5,
+  "galaxies": [ 
+	{
+	  "galaxyId:": 7,
+	  "opened": true,
+	  "picture":"/grsdge/ge/erge1.jpeg",
+	  "planets_Ids": [[4,5],[3,3],[8,1]]
+	},
+	{
+	  "galaxyId:": 3,
+	  "opened": true,
+	  "picture":"/grsdge/ge/erge2.jpeg",
+	  "planets_Ids": [[4,5],[3,3],[8,1]]
+	},
+	{
+	  "galaxyId:": 2,
+	  "opened": false,
+	  "picture":"/grsdge/ge/erge8.jpeg",
+	  "planets_Ids": [[4,5],[3,3],[8,1]]
+	}
+  ]
+}
+
+

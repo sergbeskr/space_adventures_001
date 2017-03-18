@@ -1,0 +1,42 @@
+{
+  "items": [ 
+	{
+	  "planetId": 0,
+	  "picture_sphere": "/grsdge/ge/erge1.jpeg",
+	  "picture_landscape": "/grsdge/ht/erge1.jpeg",
+	  "type": "sand",
+	  "loot_money": 10,
+	  "loot_blackEnergy": 120,
+	  "castle_type": 2
+	},
+	{
+	  "planetId:": 1,
+	  "picture_sphere": "/grsdge/ge/erge1.jpeg",
+	  "picture_landscape": "/grsdge/ht/erge1.jpeg",
+	  "type": "snow",
+	  "loot_money": 10,
+	  "loot_blackEnergy": 10,
+	  "castle_type": 2
+	},
+	{
+	  "planetId:": 2,
+	  "picture_sphere": "/grsdge/ge/erge1.jpeg",
+	  "picture_landscape": "/grsdge/ht/erge1.jpeg",
+	  "type": "ocean",
+	  "loot_money": 50,
+	  "loot_blackEnergy": 50,
+	  "castle_type": 3
+	},
+	{
+	  "planetId:": 3,
+	  "picture_sphere": "/grsdge/ge/erge1.jpeg",
+	  "picture_landscape": "/grsdge/ht/erge1.jpeg",
+	  "type": "forest",
+	  "loot_money": 50,
+	  "loot_blackEnergy": 10,
+	  "castle_type": 2
+	}
+  ]
+}
+
+

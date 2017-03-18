@@ -1,0 +1,48 @@
+{
+  "items": [ 
+	{
+	  "galaxyId:": 0,
+	  "galaxy_x": 5,
+	  "galaxy_y": 5,
+	  "cost_money": 1000,
+	  "cost_blackEnergy": 7000
+	},
+	{
+	  "galaxyId:": 1,
+	  "galaxy_x": -5,
+	  "galaxy_y": -4,
+	  "cost_money": 1000,
+	  "cost_blackEnergy": 7000
+	},
+	{
+	  "galaxyId:": 2,
+	  "galaxy_x": 1,
+	  "galaxy_y": 1,
+	  "cost_money": 1000,
+	  "cost_blackEnergy": 7000
+	},
+	{
+	  "galaxyId:": 3,
+	  "galaxy_x": 2,
+	  "galaxy_y": 2,
+	  "cost_money": 1000,
+	  "cost_blackEnergy": 7000
+	},
+	{
+	  "galaxyId:": 4,
+	  "galaxy_x": 4,
+	  "galaxy_y": 4,
+	  "cost_money": 1000,
+	  "cost_blackEnergy": 7000
+	},
+	{
+	  "galaxyId:": 5,
+	  "galaxy_x": 3,
+	  "galaxy_y": 3,
+	  "cost_money": 1000,
+	  "cost_blackEnergy": 7000
+	}
+  ]
+}
+
+
